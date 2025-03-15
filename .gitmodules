@@ -22,3 +22,6 @@
 [submodule "logging-log4j2"]
 	path = logging-log4j2
 	url = https://github.com/bugs-dot-jar/logging-log4j2
+[submodule "flink-v2"]
+	path = flink-v2
+	url = https://github.com/carolhanna01/flink
